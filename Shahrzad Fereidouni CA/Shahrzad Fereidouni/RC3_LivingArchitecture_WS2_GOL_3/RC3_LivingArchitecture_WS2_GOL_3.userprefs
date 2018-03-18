@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{E594C196-D5BE-2147-D01D-B11E5323C1A9}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ExportToRhino.cs">
+    <Files>
+      <File FileName="Assets/Scripts/1_Main/Voxel.cs" Line="58" Column="25" />
+      <File FileName="../../../../../rc3/02_WORKSHOP_DECEMBER/02_WORKSHOP/Assets/Scripts/Active/Voxel_Grid.cs" Line="143" Column="2" />
+      <File FileName="Assets/Scripts/1_Main/GOLRule.cs" Line="13" Column="40" />
+      <File FileName="Assets/Scripts/1_Main/Environment.cs" Line="58" Column="13" />
+      <File FileName="../../../../unity-conway-game-of-life/Assets/Scripts/CA_History.cs" Line="20" Column="33" />
+      <File FileName="Assets/Scripts/ExportToRhino.cs" Line="1" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RC3__LivingArchitecture__WS2__GOL__3 PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/peljevic/Documents/GitHub/Workshop2-master 3/Unity/Projects/RC3_LivingArchitecture_WS2_GOL_3/Assets/Scripts/1_Main/Voxel2.cs" relfile="Assets/Scripts/1_Main/Voxel2.cs" line="99" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
